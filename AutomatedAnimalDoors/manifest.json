@@ -1,0 +1,10 @@
+{
+  "Name": "Automated Animal Doors",
+  "Author": "Pieczorka",
+  "Version": "1.0.0",
+  "Description": "Automatically opens and closes the door for given times",
+  "UniqueID": "Pieczorka.AutomatedAnimalDoors",
+  "EntryDll": "AutomatedAnimalDoors.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "Nexus:22229" ]
+}
